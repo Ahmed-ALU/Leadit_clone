@@ -1,0 +1,32 @@
+.username {
+    color: #d82b46;
+    font-weight: bold;
+}
+
+.comment_area {
+    width: 95%;
+    height: 170px;
+    font-size: 20px;
+    font-family: Quicksand;
+    border-radius: 15px;
+    border-color: grey;
+}
+
+.post_button{
+    border: none;
+    width: 15%;
+    height: 30px;
+    background-color: #d41331;
+    color: white;
+    border-radius: 8px;
+}
+
+.post_button:hover{
+background-color: whitesmoke;
+color:#d41331 ;
+font-weight: bold;
+}
+.tempHack {
+    border: 2px solid transparent;
+    /* margin-top: 20px; */
+}

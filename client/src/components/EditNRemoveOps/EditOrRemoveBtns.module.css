@@ -1,0 +1,36 @@
+.container {
+    /* border: 2px solid black; */
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Quicksand;
+    
+}
+
+.button {
+    border-radius: 15px;
+    border: none;
+    box-shadow: 10px 10px 5px 0px rgba(222, 211, 211, 0.75);
+    width: 80px;
+    height: 40px;
+    margin: 4px;
+    font-family: Quicksand;
+    color: white;
+    background-color:#bf112c ;
+    
+}
+.button:hover{
+    background-color: whitesmoke;
+    color: #bf112c;
+    font-weight: bold;
+}
+
+#edit {
+    margin-top: 200px;
+    /* margin-right: 50px; */
+}
+
+#remove {
+    margin-top: 200px;
+    margin-right: 50px;
+}

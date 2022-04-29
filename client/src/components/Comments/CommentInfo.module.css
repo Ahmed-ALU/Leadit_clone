@@ -1,0 +1,13 @@
+.username {
+    display: inline;
+    font-family: Quicksand;
+}
+
+.comment{    
+    font-family: Quicksand;
+}
+
+.timeinfo {
+    display: inline;
+    font-weight: lighter;
+}

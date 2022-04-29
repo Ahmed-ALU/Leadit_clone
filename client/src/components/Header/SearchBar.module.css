@@ -1,0 +1,50 @@
+.wrapper {
+    /* border: 1px solid black; */
+    display: flex;
+    /* width: 25%; */
+}
+
+/* .searchInput {
+    width: 300px;
+    height: 56px;
+    font-size: 20px;
+    background-color: rgb(233, 233, 233);
+
+    
+} */
+
+/* for the search input box */
+.searchInput input{
+    padding: 8px 10px;
+    border: 1px solid #f4f5fa;
+    box-shadow: 0px 1px 0px 1px #f4f5fa;
+    border-radius: 50px 50px 50px 50px;
+    position: relative;
+    background-color: rgb(233, 233, 233);
+    outline-width: 0;
+}
+
+/* for the such icon */
+.searchInput>i {
+    right: 30px;
+    position: relative;
+    color: #d41331;
+}
+.searchBtn {
+    width: 20%;
+    height: 56px;
+}
+
+.sidenav__search>input {
+    padding: 8px 10px;
+    border: 1px solid #f4f5fa;
+    box-shadow: 0px 1px 0px 1px #f4f5fa;
+    border-radius: 0px 50px 50px 0px;
+    position: relative;
+    outline-width: 0;
+}
+
+.sidenav__search>i {
+    right: 30px;
+    position: relative;
+}

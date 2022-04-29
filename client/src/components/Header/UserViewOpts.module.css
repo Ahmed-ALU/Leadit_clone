@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(61, 61, 61);
+    font-family: Quicksand;
+}
+.wrapper {
+    /* border: 2px solid yellow;  */
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+    height: 50px;
+}
+
+.btns {
+    border: none;
+    background: transparent;
+    width: 20%;
+    height: auto;
+    color: white;
+}
+
+.btns:hover {
+    color: #d82b46;
+}
+
+#selected {
+    background: rgb(75, 94, 105);
+    color: #e57183;
+    border-bottom: 2px solid rgb(35, 55, 63);
+}

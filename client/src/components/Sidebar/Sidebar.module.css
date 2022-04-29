@@ -1,0 +1,11 @@
+.gen_container {
+   
+    box-shadow: 10px 10px 5px 0px rgba(222, 211, 211, 0.75);
+    border-radius: 15px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 27%;
+    margin-top: 2%;
+}

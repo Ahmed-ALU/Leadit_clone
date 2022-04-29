@@ -1,0 +1,27 @@
+.container {
+    /* border: 2px solid firebrick; */
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.t_container{
+    /* border: 2px solid greenyellow; */
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 40px;
+}
+
+/* temp style */
+.persona_img {
+    
+    max-width: 40px;
+    max-height: 40px;
+}
+
+
+.miniHdrTxt {
+    margin-left: 15px;
+}

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.container {
+    /* border: 2px solid rgb(243, 0, 0); */
+    width: 15%;
+    position: relative;
+    margin-left: -5.5%;
+}
+
+.wrapper {
+    
+    background-color: rgb(212, 19, 49);
+    border-radius: 50px 50px 50px 50px;
+    color: white;   
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 80%;
+    padding: 4px;
+    cursor: pointer;
+}
+
+.homeBtnTxt {
+    display: inline;
+    padding-top: 5px;
+    margin-left: 20%;
+    font-size: 1.2rem;
+}
+
+.icon {
+    margin-bottom: 14px;
+}
+
+.iconHome {
+    /* border: 2px solid yellow; */
+    display: "flex";
+    width: 100%;
+    height: 36px;
+    
+}

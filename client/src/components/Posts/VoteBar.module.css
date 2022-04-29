@@ -1,0 +1,9 @@
+.container{
+    /* border: 2px solid rgb(89, 180, 189); */
+    background: #d41331;
+    color: white;
+    display: flex;
+    width: 6%;
+    flex-direction: column;
+    align-items: center;
+}

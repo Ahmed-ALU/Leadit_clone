@@ -1,0 +1,37 @@
+.container{
+    
+    border-radius: 5px;
+    /* background-color: whitesmoke; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+    height: 300px;
+    margin: 5% 1%;
+}
+
+.h4 {
+    text-align: center;
+    font-family: Quicksand;
+    /* border-bottom: 2px solid rgb(64, 206, 140); */
+}
+
+.buttons {
+    width: 85%;
+    height: 20%;
+    margin: 1%;
+    font-family: Quicksand;
+    font-weight: bold;
+    border: none;
+    box-shadow: 10px 10px 5px 0px rgba(222, 211, 211, 0.75);
+    background-color: rgb(212, 19, 49);
+    border-radius: 50px 50px 50px 50px;
+    color: white;    
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.buttons:hover {
+    background-color: #e15a6f;
+    color:white;
+}

@@ -1,0 +1,20 @@
+.container {
+    
+    display: flex;
+    padding: 1px;
+    margin: 4px;
+    margin-top: 10px;
+}
+
+/* temp style */
+.chat_logo {
+    
+    max-width: 40px;
+    max-height: 40px;  
+    margin-right: 10px;  
+}
+
+.replyBtn {
+    width: 10%;
+    height: 25px;
+}

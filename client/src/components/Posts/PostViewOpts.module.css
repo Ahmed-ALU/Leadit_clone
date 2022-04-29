@@ -1,0 +1,26 @@
+
+.comments_btn {
+    display: flex;
+    width: 26%;
+    height: 30px;
+    border: none;
+    justify-content: center;
+    background-color: whitesmoke;
+    /* save this color for selection? */
+    /* background-color: rgb(146, 172, 230); */
+    color: #d41331;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.comments_btn:hover{
+    background-color: #d41331;
+    color: white;
+
+}
+
+.icon {
+    /* border: 2px solid black; */
+    margin-top: 3px;
+    margin-right: 3px;
+}

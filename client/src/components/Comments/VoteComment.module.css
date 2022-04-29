@@ -1,0 +1,9 @@
+.container {
+    font-family: Quicksand;
+    width: 10%;
+    height: 144%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6px;
+}
